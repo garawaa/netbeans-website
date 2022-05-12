@@ -42,7 +42,7 @@ Each document in this series covers specific set of features.
 |===
 |Software or Resource |Version Required 
 
-|link:https://github.com/garawaa/netbeans-website/raw/master/netbeans.apache.org/src/content/kb/docs/java/gbcustomizer-basic-tutorial.zip] |An archive with the demo project containing the initial and target tutorial layouts. 
+|link:https://github.com/garawaa/netbeans-website/raw/master/netbeans.apache.org/src/content/kb/docs/java/gbcustomizer-basic-tutorial.zip[+gbcustomizer-basic-tutorial.zip+] |An archive with the demo project containing the initial and target tutorial layouts. 
 |===
 
 *Notes:*
