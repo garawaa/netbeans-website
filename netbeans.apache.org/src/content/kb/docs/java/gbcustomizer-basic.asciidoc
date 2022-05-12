@@ -35,7 +35,7 @@ The series is intended as a guide to show how you can layout your GUI components
 Each document in this series covers specific set of features.
 
 * Part 1: Designing a Basic Java Form Using the GridBag Customizer
-* Part 2: link:../java/gbcustomizer-advanced.html[+Designing an Advanced Java Form Using the GridBag Customizer+]
+* Part 2: link:gbcustomizer-advanced.asciidoc[+Designing an Advanced Java Form Using the GridBag Customizer+]
 
 *To follow this tutorial, you need the software and resources listed below.*
 
