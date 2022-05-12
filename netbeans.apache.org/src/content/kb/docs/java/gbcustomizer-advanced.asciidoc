@@ -45,7 +45,7 @@ The link:../java/gbcustomizer-basic.html[+first tutorial in the series+] demonst
 |===
 |Software or Resource |Description 
 
-|link:https://netbeans.org/projects/samples/downloads/download/Samples%252FJava%252Fgbcustomizer-advanced-tutorial.zip[+gbcustomizer-advanced-tutorial.zip+] |An archive with the demo project containing the initial and target tutorial layouts. 
+|link:https://github.com/garawaa/netbeans-website/raw/master/netbeans.apache.org/src/content/kb/docs/java/gbcustomizer-advanced-tutorial.zip[+gbcustomizer-advanced-tutorial.zip+] |An archive with the demo project containing the initial and target tutorial layouts. 
 |===
 
 *Notes:*
@@ -56,7 +56,7 @@ The link:../java/gbcustomizer-basic.html[+first tutorial in the series+] demonst
 
 == Opening Example Project
 
-Before starting to lay out the components with the help of the GridBag Customizer, download the link:https://netbeans.org/projects/samples/downloads/download/Samples%252FJava%252Fgbcustomizer-advanced-tutorial.zip[+gbcustomizer-advanced-tutorial.zip+], extract the  ``GridBagCustomizerAdvancedTutorial``  project on your hard drive and open it in the NetBeans IDE.
+Before starting to lay out the components with the help of the GridBag Customizer, download the link:https://github.com/garawaa/netbeans-website/raw/master/netbeans.apache.org/src/content/kb/docs/java/gbcustomizer-advanced-tutorial.zip[+gbcustomizer-advanced-tutorial.zip+], extract the  ``GridBagCustomizerAdvancedTutorial``  project on your hard drive and open it in the NetBeans IDE.
 
 1. Download and unzip the link:https://netbeans.org/projects/samples/downloads/download/Samples%252FJava%252Fgbcustomizer-advanced-tutorial.zip[+gbcustomizer-advanced-tutorial.zip+] project to any location on your computer.
 2. In the NetBeans IDE Projects tab, click Open Project on the File menu, navigate to the  ``GridBagCustomizerAdvancedTutorial``  project that you extracted in the previous step, and click Open Project. The project folder might be in a containing folder that is also called  ``GridBagCustomizerAdvancedTutorial`` .
