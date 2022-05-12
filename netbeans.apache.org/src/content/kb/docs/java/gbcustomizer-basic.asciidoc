@@ -42,7 +42,7 @@ Each document in this series covers specific set of features.
 |===
 |Software or Resource |Version Required 
 
-|link:https://netbeans.org/projects/samples/downloads/download/Samples%252FJava%252Fgbcustomizer-basic-tutorial.zip[+gbcustomizer-basic-tutorial.zip+] |An archive with the demo project containing the initial and target tutorial layouts. 
+|link:https://github.com/garawaa/netbeans-website/raw/master/netbeans.apache.org/src/content/kb/docs/java/gbcustomizer-basic-tutorial.zip] |An archive with the demo project containing the initial and target tutorial layouts. 
 |===
 
 *Notes:*
@@ -53,7 +53,7 @@ Each document in this series covers specific set of features.
 
 == Opening Example Project
 
-1. Download and unzip the link:https://netbeans.org/projects/samples/downloads/download/Samples%252FJava%252Fgbcustomizer-basic-tutorial.zip[+gbcustomizer-basic-tutorial.zip+] project to any location on your computer.
+1. Download and unzip the link:https://github.com/garawaa/netbeans-website/raw/master/netbeans.apache.org/src/content/kb/docs/java/gbcustomizer-basic-tutorial.zip[+gbcustomizer-basic-tutorial.zip+] project to any location on your computer.
 2. In the Projects tab, choose  ``File``  >  ``Open Project`` , navigate to the  ``gbcustomizer-basic-tutorial``  project that you extracted in the previous step, and click Open Project. The project folder might be in a containing folder that is also called  ``gbcustomizer-basic-tutorial`` .
 3. In the Reference Problem dialog box, click Resolve. The IDE automatically downloads the JUnit and JUnit 4 libraries. Follow the instructions in the NetBeans IDE installer to install the required plugins. When the installation is complete, click Finish.
 4. Expand  ``Source Packages``  >  ``Tutorial``  and double-click  ``ContactsBasicInitial.java`` . 
