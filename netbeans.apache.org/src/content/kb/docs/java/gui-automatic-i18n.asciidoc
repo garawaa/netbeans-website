@@ -50,7 +50,7 @@ In this exercise we will open the demo Java application project, which contains 
 
 === Opening the Example Project
 
-1. Download and unzip the link:https://netbeans.org/files/documents/4/770/InternationalizeDemo.zip[+InternationalizeDemo.zip+] project to any location on your computer.
+1. Download and unzip the link:https://github.com/garawaa/netbeans-website/raw/master/netbeans.apache.org/src/content/kb/docs/java/InternationalizeDemo.zip[+InternationalizeDemo.zip+] project to any location on your computer.
 2. Choose File > Open Project, navigate to the  ``InternationalizeDemo``  project that you extracted in the last step, and click Open. The project folder might be in a containing folder that is also called  ``InternationalizeDemo`` .
 3. Expand Source Packages > Demo and double-click  ``FindDialog.java`` . The sample form opens in the GUI Builder.
 
