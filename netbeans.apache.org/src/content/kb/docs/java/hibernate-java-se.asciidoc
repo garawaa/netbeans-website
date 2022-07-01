@@ -61,7 +61,7 @@ image::images/netbeans-stamp-80-74-73.png[title="Content on this page applies to
 |Sakila Database |plugin available from update center 
 |===
 
-You can download link:https://netbeans.org/projects/samples/downloads/download/Samples/Java/DVDStoreAdmin-Ant.zip[+a zip archive of the finished project+].
+You can download link:https://github.com/garawaa/netbeans-website/raw/master/netbeans.apache.org/src/content/kb/docs/java/DVDStoreAdmin-Ant.zip[+a zip archive of the finished project+].
 
 
 == Creating the Database
